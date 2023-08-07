@@ -1,2 +1,2 @@
 # dotfiles
-Config files for linux environement
+Config files for linux environment
